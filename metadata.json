@@ -1,0 +1,8 @@
+{
+  "name": "Copy of French Quarter Bistro",
+  "description": "An elegant, responsive restaurant website for an authentic Creole and Cajun bistro with Caribbean flair, featuring a digital menu, AI-powered chef assistant, and online reservations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
